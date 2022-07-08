@@ -1,0 +1,139 @@
+2022-07-07 19:11:45,704 config loading complete
+2022-07-07 19:11:46,693 dataset loading complete
+2022-07-07 19:11:46,996 model and criterion initialized
+2022-07-07 19:11:46,998 optiimizer and scheduler initialized
+2022-07-07 19:11:49,711 config loading complete
+2022-07-07 19:11:50,579 dataset loading complete
+2022-07-07 19:11:53,187 config loading complete
+2022-07-07 19:11:54,131 dataset loading complete
+2022-07-07 19:11:56,691 config loading complete
+2022-07-07 19:11:57,599 dataset loading complete
+2022-07-07 19:12:00,169 config loading complete
+2022-07-07 19:12:01,035 dataset loading complete
+2022-07-07 19:12:14,218 batch49, acc:tensor([0.], device='cuda:0'), loss:4.4153289794921875
+2022-07-07 19:12:22,014 batch99, acc:tensor([3.1250], device='cuda:0'), loss:4.404994487762451
+2022-07-07 19:12:30,027 batch149, acc:tensor([3.1250], device='cuda:0'), loss:4.597111701965332
+2022-07-07 19:12:38,087 batch199, acc:tensor([3.1250], device='cuda:0'), loss:4.20900821685791
+2022-07-07 19:12:46,229 batch249, acc:tensor([3.1250], device='cuda:0'), loss:4.240865707397461
+2022-07-07 19:12:54,655 batch299, acc:tensor([3.1250], device='cuda:0'), loss:4.527434825897217
+2022-07-07 19:13:03,210 batch349, acc:tensor([3.1250], device='cuda:0'), loss:4.39241886138916
+2022-07-07 19:13:11,988 batch399, acc:tensor([6.2500], device='cuda:0'), loss:3.898754119873047
+2022-07-07 19:13:20,769 batch449, acc:tensor([12.5000], device='cuda:0'), loss:4.001981258392334
+2022-07-07 19:13:29,807 batch499, acc:tensor([6.2500], device='cuda:0'), loss:3.9504685401916504
+2022-07-07 19:13:38,980 batch549, acc:tensor([6.2500], device='cuda:0'), loss:4.472247123718262
+2022-07-07 19:13:48,190 batch599, acc:tensor([12.5000], device='cuda:0'), loss:4.20518684387207
+2022-07-07 19:13:57,546 batch649, acc:tensor([3.1250], device='cuda:0'), loss:4.191600799560547
+2022-07-07 19:14:06,813 batch699, acc:tensor([6.2500], device='cuda:0'), loss:4.318647384643555
+2022-07-07 19:14:16,281 batch749, acc:tensor([3.1250], device='cuda:0'), loss:4.3964033126831055
+2022-07-07 19:14:26,286 batch799, acc:tensor([6.2500], device='cuda:0'), loss:4.3259596824646
+2022-07-07 19:14:35,788 batch849, acc:tensor([12.5000], device='cuda:0'), loss:3.8157691955566406
+2022-07-07 19:14:45,240 batch899, acc:tensor([9.3750], device='cuda:0'), loss:3.9332590103149414
+2022-07-07 19:14:54,631 batch949, acc:tensor([6.2500], device='cuda:0'), loss:4.074143409729004
+2022-07-07 19:15:04,491 batch999, acc:tensor([15.6250], device='cuda:0'), loss:3.9331815242767334
+2022-07-07 19:15:14,321 batch1049, acc:tensor([18.7500], device='cuda:0'), loss:3.861621856689453
+2022-07-07 19:15:26,046 batch1099, acc:tensor([3.1250], device='cuda:0'), loss:4.060699462890625
+2022-07-07 19:15:36,035 batch1149, acc:tensor([3.1250], device='cuda:0'), loss:4.260950565338135
+2022-07-07 19:15:47,088 batch1199, acc:tensor([6.2500], device='cuda:0'), loss:4.179001808166504
+2022-07-07 19:15:57,099 batch1249, acc:tensor([12.5000], device='cuda:0'), loss:4.01547384262085
+2022-07-07 19:16:07,094 batch1299, acc:tensor([12.5000], device='cuda:0'), loss:3.792964220046997
+2022-07-07 19:16:17,457 batch1349, acc:tensor([6.2500], device='cuda:0'), loss:3.7926881313323975
+2022-07-07 19:16:28,106 batch1399, acc:tensor([18.7500], device='cuda:0'), loss:3.816904306411743
+2022-07-07 19:16:38,733 batch1449, acc:tensor([3.1250], device='cuda:0'), loss:4.060785293579102
+2022-07-07 19:16:49,051 batch1499, acc:tensor([9.3750], device='cuda:0'), loss:3.8556668758392334
+2022-07-07 19:16:59,892 batch1549, acc:tensor([3.1250], device='cuda:0'), loss:3.713930368423462
+2022-07-07 19:17:05,372 config loading complete
+2022-07-07 19:17:06,395 dataset loading complete
+2022-07-07 19:17:08,693 config loading complete
+2022-07-07 19:17:09,745 dataset loading complete
+2022-07-07 19:17:12,032 config loading complete
+2022-07-07 19:17:13,071 dataset loading complete
+2022-07-07 19:17:15,476 config loading complete
+2022-07-07 19:17:16,570 dataset loading complete
+2022-07-07 19:17:33,778 epoch 0 accomplished, loss = 3.898664236450195, acc = 9.859999656677246
+2022-07-07 19:17:36,950 config loading complete
+2022-07-07 19:17:37,965 dataset loading complete
+2022-07-07 19:17:41,158 config loading complete
+2022-07-07 19:17:42,232 dataset loading complete
+2022-07-07 19:17:45,417 config loading complete
+2022-07-07 19:17:54,738 dataset loading complete
+2022-07-07 19:17:57,838 config loading complete
+2022-07-07 19:17:58,893 dataset loading complete
+2022-07-07 19:18:08,195 batch49, acc:tensor([21.8750], device='cuda:0'), loss:3.8414864540100098
+2022-07-07 19:18:18,098 batch99, acc:tensor([9.3750], device='cuda:0'), loss:3.8516480922698975
+2022-07-07 19:18:28,330 batch149, acc:tensor([12.5000], device='cuda:0'), loss:3.9997918605804443
+2022-07-07 19:18:38,711 batch199, acc:tensor([12.5000], device='cuda:0'), loss:3.8926501274108887
+2022-07-07 19:18:49,261 batch249, acc:tensor([6.2500], device='cuda:0'), loss:4.3006720542907715
+2022-07-07 20:47:59,876 config loading complete
+2022-07-07 20:48:00,737 dataset loading complete
+2022-07-07 20:48:01,050 model and criterion initialized
+2022-07-07 20:48:01,054 optiimizer and scheduler initialized
+2022-07-07 20:48:03,486 config loading complete
+2022-07-07 20:48:04,329 dataset loading complete
+2022-07-07 20:48:06,710 config loading complete
+2022-07-07 20:48:07,519 dataset loading complete
+2022-07-07 20:48:09,838 config loading complete
+2022-07-07 20:48:10,646 dataset loading complete
+2022-07-07 20:48:12,973 config loading complete
+2022-07-07 20:48:13,785 dataset loading complete
+2022-07-07 20:49:40,942 config loading complete
+2022-07-07 20:49:41,753 dataset loading complete
+2022-07-07 20:49:41,995 model and criterion initialized
+2022-07-07 20:49:41,998 optiimizer and scheduler initialized
+2022-07-07 20:49:44,299 config loading complete
+2022-07-07 20:49:45,111 dataset loading complete
+2022-07-07 20:49:47,419 config loading complete
+2022-07-07 20:49:48,252 dataset loading complete
+2022-07-07 20:49:50,522 config loading complete
+2022-07-07 20:49:51,333 dataset loading complete
+2022-07-07 20:49:53,691 config loading complete
+2022-07-07 20:49:54,503 dataset loading complete
+2022-07-07 20:50:17,984 batch49, acc:tensor([3.1250], device='cuda:0'), loss:4.471986770629883
+2022-07-07 20:50:37,628 batch99, acc:tensor([0.], device='cuda:0'), loss:4.713233470916748
+2022-07-07 20:50:57,366 batch149, acc:tensor([0.], device='cuda:0'), loss:4.615382671356201
+2022-07-07 21:21:33,345 config loading complete
+2022-07-07 21:21:34,212 dataset loading complete
+2022-07-07 21:24:56,699 config loading complete
+2022-07-07 21:24:57,520 dataset loading complete
+2022-07-07 21:26:36,801 config loading complete
+2022-07-07 21:26:37,644 dataset loading complete
+2022-07-07 21:28:35,717 config loading complete
+2022-07-07 21:28:36,558 dataset loading complete
+2022-07-07 21:29:37,154 config loading complete
+2022-07-07 21:29:37,994 dataset loading complete
+2022-07-07 21:29:38,273 model and criterion initialized
+2022-07-07 21:29:38,276 optiimizer and scheduler initialized
+2022-07-07 21:29:40,637 config loading complete
+2022-07-07 21:29:41,460 dataset loading complete
+2022-07-07 21:29:43,850 config loading complete
+2022-07-07 21:29:44,670 dataset loading complete
+2022-07-07 21:29:47,044 config loading complete
+2022-07-07 21:29:47,868 dataset loading complete
+2022-07-07 21:29:50,339 config loading complete
+2022-07-07 21:29:51,175 dataset loading complete
+2022-07-07 21:33:27,375 config loading complete
+2022-07-07 21:33:28,357 dataset loading complete
+2022-07-07 21:33:28,630 model and criterion initialized
+2022-07-07 21:33:28,633 optiimizer and scheduler initialized
+2022-07-07 21:33:31,298 config loading complete
+2022-07-07 21:33:32,226 dataset loading complete
+2022-07-07 21:33:35,004 config loading complete
+2022-07-07 21:33:35,976 dataset loading complete
+2022-07-07 21:33:38,856 config loading complete
+2022-07-07 21:33:39,815 dataset loading complete
+2022-07-07 21:33:42,551 config loading complete
+2022-07-07 21:33:43,501 dataset loading complete
+2022-07-07 21:35:12,630 config loading complete
+2022-07-07 21:35:13,553 dataset loading complete
+2022-07-07 21:35:13,832 model and criterion initialized
+2022-07-07 21:35:13,834 optiimizer and scheduler initialized
+2022-07-07 21:35:16,559 config loading complete
+2022-07-07 21:35:17,460 dataset loading complete
+2022-07-07 21:35:20,266 config loading complete
+2022-07-07 21:35:21,185 dataset loading complete
+2022-07-07 21:35:24,073 config loading complete
+2022-07-07 21:35:24,971 dataset loading complete
+2022-07-07 21:35:27,830 config loading complete
+2022-07-07 21:35:28,764 dataset loading complete
+2022-07-07 21:35:46,727 batch49, acc:tensor([0.], device='cuda:0'), loss:5.07077169418335
+2022-07-07 21:36:01,321 batch99, acc:tensor([0.], device='cuda:0'), loss:5.032098293304443
+2022-07-07 21:36:15,964 batch149, acc:tensor([3.1250], device='cuda:0'), loss:4.802506446838379

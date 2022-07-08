@@ -1,0 +1,33 @@
+{
+    "//":"basic configs for model training",
+
+    "//": "in resnet, ",
+    "networkname":"resnet",
+
+    "//":"only in resnet use blockname",
+    "//":"in fp_block, reactnet_block, sincnet_block,gsreactnet_block",
+    "blockname":"fp_block",
+
+    "//":"number of workser in DataLoader",
+    "workers":4,
+
+    "//":"path of loading datasets",
+    "dataset_path":"./CIFAR_100/CIFAR_100_python/",
+
+    "//":"largest number of training epochs",
+    "epochs":100,
+
+    "//":"batch size",
+    "batch_size":32,
+
+    "//":"initial learning rate",
+    "learning_rate":1e-3,
+
+    "//":"weight decay",
+    "weight_decay":0,
+
+    "//":"checkpoint save path",
+    "save_path":"./CIFAR_100/ckpt",
+
+    "//":"basic configs for model training"
+}
